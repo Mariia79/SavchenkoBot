@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="acquintancebot-9314" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\!\.NET\ Core\ projects\\TestAzureAPI\\TestAzureAPI\\obj\\Release\\netcoreapp2\.1\\linux-x64\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

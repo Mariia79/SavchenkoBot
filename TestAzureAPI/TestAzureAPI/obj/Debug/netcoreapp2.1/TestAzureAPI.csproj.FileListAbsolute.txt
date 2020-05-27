@@ -1,0 +1,15 @@
+D:\!.NET Core projects\TestAzureAPI\TestAzureAPI\bin\Debug\netcoreapp2.1\TestAzureAPI.deps.json
+D:\!.NET Core projects\TestAzureAPI\TestAzureAPI\bin\Debug\netcoreapp2.1\TestAzureAPI.runtimeconfig.json
+D:\!.NET Core projects\TestAzureAPI\TestAzureAPI\bin\Debug\netcoreapp2.1\TestAzureAPI.runtimeconfig.dev.json
+D:\!.NET Core projects\TestAzureAPI\TestAzureAPI\bin\Debug\netcoreapp2.1\TestAzureAPI.dll
+D:\!.NET Core projects\TestAzureAPI\TestAzureAPI\bin\Debug\netcoreapp2.1\TestAzureAPI.pdb
+D:\!.NET Core projects\TestAzureAPI\TestAzureAPI\obj\Debug\netcoreapp2.1\TestAzureAPI.csprojAssemblyReference.cache
+D:\!.NET Core projects\TestAzureAPI\TestAzureAPI\obj\Debug\netcoreapp2.1\TestAzureAPI.csproj.CoreCompileInputs.cache
+D:\!.NET Core projects\TestAzureAPI\TestAzureAPI\obj\Debug\netcoreapp2.1\TestAzureAPI.RazorAssemblyInfo.cache
+D:\!.NET Core projects\TestAzureAPI\TestAzureAPI\obj\Debug\netcoreapp2.1\TestAzureAPI.RazorAssemblyInfo.cs
+D:\!.NET Core projects\TestAzureAPI\TestAzureAPI\obj\Debug\netcoreapp2.1\TestAzureAPI.AssemblyInfoInputs.cache
+D:\!.NET Core projects\TestAzureAPI\TestAzureAPI\obj\Debug\netcoreapp2.1\TestAzureAPI.AssemblyInfo.cs
+D:\!.NET Core projects\TestAzureAPI\TestAzureAPI\obj\Debug\netcoreapp2.1\TestAzureAPI.RazorTargetAssemblyInfo.cache
+D:\!.NET Core projects\TestAzureAPI\TestAzureAPI\obj\Debug\netcoreapp2.1\TestAzureAPI.dll
+D:\!.NET Core projects\TestAzureAPI\TestAzureAPI\obj\Debug\netcoreapp2.1\TestAzureAPI.pdb
+D:\!.NET Core projects\TestAzureAPI\TestAzureAPI\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs

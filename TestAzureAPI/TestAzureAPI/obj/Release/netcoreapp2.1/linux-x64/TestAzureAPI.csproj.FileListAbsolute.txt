@@ -1,0 +1,16 @@
+D:\!.NET Core projects\TestAzureAPI\TestAzureAPI\bin\Release\netcoreapp2.1\linux-x64\TestAzureAPI
+D:\!.NET Core projects\TestAzureAPI\TestAzureAPI\bin\Release\netcoreapp2.1\linux-x64\TestAzureAPI.deps.json
+D:\!.NET Core projects\TestAzureAPI\TestAzureAPI\bin\Release\netcoreapp2.1\linux-x64\TestAzureAPI.runtimeconfig.json
+D:\!.NET Core projects\TestAzureAPI\TestAzureAPI\bin\Release\netcoreapp2.1\linux-x64\TestAzureAPI.runtimeconfig.dev.json
+D:\!.NET Core projects\TestAzureAPI\TestAzureAPI\bin\Release\netcoreapp2.1\linux-x64\TestAzureAPI.dll
+D:\!.NET Core projects\TestAzureAPI\TestAzureAPI\bin\Release\netcoreapp2.1\linux-x64\TestAzureAPI.pdb
+D:\!.NET Core projects\TestAzureAPI\TestAzureAPI\obj\Release\netcoreapp2.1\linux-x64\TestAzureAPI.csprojAssemblyReference.cache
+D:\!.NET Core projects\TestAzureAPI\TestAzureAPI\obj\Release\netcoreapp2.1\linux-x64\TestAzureAPI.csproj.CoreCompileInputs.cache
+D:\!.NET Core projects\TestAzureAPI\TestAzureAPI\obj\Release\netcoreapp2.1\linux-x64\TestAzureAPI.RazorAssemblyInfo.cache
+D:\!.NET Core projects\TestAzureAPI\TestAzureAPI\obj\Release\netcoreapp2.1\linux-x64\TestAzureAPI.RazorAssemblyInfo.cs
+D:\!.NET Core projects\TestAzureAPI\TestAzureAPI\obj\Release\netcoreapp2.1\linux-x64\UserSecretsAssemblyInfo.cs
+D:\!.NET Core projects\TestAzureAPI\TestAzureAPI\obj\Release\netcoreapp2.1\linux-x64\TestAzureAPI.AssemblyInfoInputs.cache
+D:\!.NET Core projects\TestAzureAPI\TestAzureAPI\obj\Release\netcoreapp2.1\linux-x64\TestAzureAPI.AssemblyInfo.cs
+D:\!.NET Core projects\TestAzureAPI\TestAzureAPI\obj\Release\netcoreapp2.1\linux-x64\TestAzureAPI.RazorTargetAssemblyInfo.cache
+D:\!.NET Core projects\TestAzureAPI\TestAzureAPI\obj\Release\netcoreapp2.1\linux-x64\TestAzureAPI.dll
+D:\!.NET Core projects\TestAzureAPI\TestAzureAPI\obj\Release\netcoreapp2.1\linux-x64\TestAzureAPI.pdb
